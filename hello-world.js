@@ -1,4 +1,4 @@
 function sayHello(){
   return "Hello World"
 }
-export default sayHello 
+module.exports = sayHello
